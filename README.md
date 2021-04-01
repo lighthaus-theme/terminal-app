@@ -1,8 +1,12 @@
 <p align="center"><img src="https://raw.githubusercontent.com/lighthaus-theme/terminal-app/19bad9098cb9942dd07334535588d67ced584a8a/assets/terminal-app-badge.svg" width="350"><p>
+<p align="center">
+   <a href="https://www.buymeacoffee.com/asirohi"><img alt="Status" src="https://raw.githubusercontent.com/lighthaus-theme/lighthaus-theme/3cc9fd60c69da89f56721ca9048f38709b3dc878/BuyUsACoffee.svg" width="150" height="23">
+</p>
 
 <h2 align="center">Terminal-App Lighthaus</h2
 
 A [Lighthaus](https://github.com/lighthaus-theme/lighthaus) theme for [Terminal-App](https://support.apple.com/en-in/guide/terminal/welcome/mac).
+
 
 ### Table of Contents
 - [Screenshots](#screenshots)
@@ -32,7 +36,7 @@ _For more information refer to the [official project documentation](https://supp
 
 ### Version
 ```vim
-v 1.0.0
+v 1.1.0
 ```
 
 _Lighthaus and all it's projects use [Semantic Versioning](https://semver.org/)._ <br/>
